@@ -73,7 +73,7 @@ section {
         border-radius: 16px;
         box-shadow: 2px 3px 5px #222;
     }
-    /*
+    
     #contact {
         background: #222;
         color: #fff;
@@ -81,15 +81,15 @@ section {
         border-bottom-right-radius: 16px;
         border-bottom-left-radius: 16px;
         font-size: 1.2em;
-    } */
-        #contact > a:link {
+    } 
+      #contact > a:link {
             color: #fff;
         }
-        #contact .social_icon {
-            width: 30px; /* Set the desired width */
-            height: 30px; /* Set the desired height */
-            object-fit: contain; /* Ensures the icon scales without distortion */
-        }
+      /*  #contact .social_icon {
+            width: 30px; 
+            height: 30px; 
+            object-fit: contain; 
+        } */
         
     footer {
         text-align: right;
