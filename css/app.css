@@ -29,7 +29,7 @@ header {
     text-shadow: 2px 2px 3px #333;
 }
     header > p {
-        color: rgb(126, 18, 32);
+        color: #0F0;
         margin-top: -25px;
         background: rgba(255, 255, 255, .33);
     }
@@ -62,6 +62,12 @@ section {
     color: #333;
     text-align: center;
 }
+    .fancyHeading {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        margin-bottom: 20px;
+    }
     .thumbnail {
         width: 20%;
         border: 3px solid #777;
